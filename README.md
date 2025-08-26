@@ -6,6 +6,7 @@ A chess game implementation in C++ using OpenGL and FreeGLUT for graphics render
 
 -   [Description](#description)
 -   [Features](#features)
+-   [Screenshots](#screenshots)
 -   [Requirements](#requirements)
 -   [Building and Running](#building-and-running)
 -   [How to Play](#how-to-play)
@@ -34,6 +35,22 @@ This is a fully functional chess game featuring:
 -   Turn-based gameplay (White moves first)
 -   Visual feedback with piece highlighting
 -   OpenGL graphics with FreeGLUT
+
+## Screenshots
+
+Here are some screenshots of the chess game in action:
+
+### Chess Board
+
+![Chess Board](screenshots/chess-board.png)
+
+### White's Turn
+
+![White's Turn](screenshots/turn-white.png)
+
+### Black's Turn
+
+![Black's Turn](screenshots/turn-black.png)
 
 ## Requirements
 
