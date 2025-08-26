@@ -38,7 +38,7 @@
 *.scan
 
 # IDE specific files
-.vscode/
+# .vscode/
 .vs/
 *.vcxproj*
 *.sln
@@ -104,7 +104,7 @@ cmake_install.cmake
 Makefile
 *.cmake
 
-mingw32/
+# mingw32/
 
 # Output files specific to this project
 Output.txt
